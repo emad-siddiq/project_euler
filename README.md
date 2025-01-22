@@ -5,7 +5,7 @@ These are my solutions for Project Euler, a series of challenging algorithmic pr
 To compile and run a solution:
 
 ```
-gcc -o output_file_name problem_X.c
+gcc -o bin/output_file_name problem_X.c
 ```
 Then run with
 ```
