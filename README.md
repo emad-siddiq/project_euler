@@ -1,6 +1,6 @@
 # Solutions for Project Euler
 
-These are my solutions for Project Euler, a series of challenging algorithmic problems. I chose C as the language to attempt these questions with maximal freedom. 
+These are my Project Euler solutions, written in C to leverage its low-level capabilities for efficient and optimized algorithms.
 
 To compile and run a solution:
 
